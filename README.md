@@ -1,6 +1,8 @@
 # Light-O-Rama-Automation
 
-Preliminary exploration into automating conversion from audio files into Christmas / Halloween light shows. 
+![image](https://user-images.githubusercontent.com/12617237/212182702-560661ab-3d2a-4eff-8f5e-bd1c074e6d14.png)
+
+Preliminary exploration into automating conversion from audio files into Christmas / Halloween light shows. Datasets, weights, and other large files are excluded from this repository due to their size.
 
 This is a very slow and cumbersome process to do manually, and I am hoping to find a way to generalize it. My Dad loves his Christmas lights, and I want to save him time and energy. 
 
